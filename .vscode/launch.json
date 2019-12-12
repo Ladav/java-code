@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - listPrimitive",
+            "request": "launch",
+            "mainClass": "listPrimitive",
+            "projectName": "programs_f0d8dcee"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+class tempo{public static void main(String la[]){int j=19;System.out.println(j);}}
